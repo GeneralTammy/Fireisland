@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/MainLogo_FullColor_BlueGingham-1000px.png",
+        url: "/MainLogo_FullColor_SeaBreeze-3000px.png",
         sizes: "any",
       },
       {
